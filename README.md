@@ -1,4 +1,4 @@
-# Maratona | Seu Projeto no Ar - Backend 🚀 
+# TDC SUMMIT AI - Simara Conceição 🚀 
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
