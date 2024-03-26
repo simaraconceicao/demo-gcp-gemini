@@ -20,7 +20,7 @@ Esta será uma jornada prática, onde abordarei os conceitos fundamentais dentro
 
 
 -----
-_Foi compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
+_Foi incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
 
  <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200"> 
 
